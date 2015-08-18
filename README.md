@@ -11,7 +11,7 @@ npm install node-fscache
 ## Use
 
 ```js
-var fscache = require('fscache');
+var fscache = require('node-fscache');
 
 var cache = new fscache();
 
